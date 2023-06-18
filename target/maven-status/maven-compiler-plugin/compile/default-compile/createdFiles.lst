@@ -1,0 +1,5 @@
+com\virgingames\constants\EndPoints.class
+com\virgingames\virgingamesinfo\PotsSteps.class
+com\virgingames\utils\Utils.class
+com\virgingames\constants\Path.class
+com\virgingames\utils\PropertyReader.class

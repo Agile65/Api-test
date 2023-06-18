@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Virgin games roxor test","This will verify pot name by it's id","SUCCESS","2023-06-18T08:01:10.490+01:00[Europe/London]","0.0","5.31"
+"Virgin games roxor test","This will verify total number of the records","SUCCESS","2023-06-18T08:01:16.039+01:00[Europe/London]","0.0","0.54"
+"Virgin games roxor test","This will get all the information about all Pots","SUCCESS","2023-06-18T08:01:16.577+01:00[Europe/London]","0.0","0.66"
+"Virgin games roxor test","This will get all the information about Pots where currency is EUR","SUCCESS","2023-06-18T08:01:17.239+01:00[Europe/London]","0.0","0.19"
+"Virgin games roxor test","This will get all the information about Pots where currency is GBP","SUCCESS","2023-06-18T08:01:17.427+01:00[Europe/London]","0.0","0.15"
+"Virgin games roxor test","This will get all the information about Pots where currency is SEK","SUCCESS","2023-06-18T08:01:17.579+01:00[Europe/London]","0.0","0.19"
